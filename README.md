@@ -29,4 +29,16 @@ Each solved problem gets its own folder, named by question number, difficulty an
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
