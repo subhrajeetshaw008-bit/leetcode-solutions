@@ -16,6 +16,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -24,6 +25,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -41,4 +43,8 @@ Each solved problem gets its own folder, named by question number, difficulty an
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
