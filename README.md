@@ -3,7 +3,7 @@
 Personal archive of solved LeetCode problems — auto-synced the moment each submission gets **Accepted**.
 
 <!--STATS_START-->
-![Total Solved](https://img.shields.io/badge/Total%20Solved-4-0e75b6?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-3-2ecc71?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-1-f1c40f?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-e74c3c?style=flat-square)
+![Total Solved](https://img.shields.io/badge/Total%20Solved-5-0e75b6?style=flat-square) ![Easy](https://img.shields.io/badge/Easy-4-2ecc71?style=flat-square) ![Medium](https://img.shields.io/badge/Medium-1-f1c40f?style=flat-square) ![Hard](https://img.shields.io/badge/Hard-0-e74c3c?style=flat-square)
 <!--STATS_END-->
 
 ---
