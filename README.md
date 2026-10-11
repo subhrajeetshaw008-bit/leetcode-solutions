@@ -20,6 +20,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [0509-fibonacci-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
