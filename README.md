@@ -24,6 +24,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,4 +73,8 @@ Each solved problem gets its own folder, named by question number, difficulty an
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Hash Table
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
