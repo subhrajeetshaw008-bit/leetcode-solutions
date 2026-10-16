@@ -18,6 +18,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | ------- |
 | [0002-add-two-numbers](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -44,6 +45,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 ## Array
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -75,6 +77,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
@@ -84,4 +87,16 @@ Each solved problem gets its own folder, named by question number, difficulty an
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
