@@ -18,6 +18,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | ------- |
 | [0002-add-two-numbers](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2469-convert-the-temperature) |
@@ -45,6 +46,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 ## Array
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -82,6 +84,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 ## Hash Table
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3945-digit-frequency-score](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Brainteaser
 |  |
@@ -99,4 +102,8 @@ Each solved problem gets its own folder, named by question number, difficulty an
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
