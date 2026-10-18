@@ -26,6 +26,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3280-convert-date-to-binary](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -113,4 +114,8 @@ Each solved problem gets its own folder, named by question number, difficulty an
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [3280-convert-date-to-binary](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 <!---LeetCode Topics End-->
