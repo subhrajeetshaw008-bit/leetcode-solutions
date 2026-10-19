@@ -30,6 +30,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3516-find-closest-person](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3945-digit-frequency-score) |
