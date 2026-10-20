@@ -21,6 +21,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [1512-number-of-good-pairs](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -77,6 +78,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
