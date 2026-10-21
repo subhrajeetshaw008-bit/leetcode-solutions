@@ -18,6 +18,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | ------- |
 | [0002-add-two-numbers](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
@@ -108,6 +109,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 ## Bit Manipulation
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
