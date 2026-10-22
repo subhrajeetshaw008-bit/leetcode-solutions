@@ -21,6 +21,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [1486-xor-operation-in-an-array](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2235-add-two-integers](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2469-convert-the-temperature) |
