@@ -21,6 +21,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [1486-xor-operation-in-an-array](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2235-add-two-integers](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -56,6 +57,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -69,6 +71,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 ## Matrix
 |  |
 | ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Linked List
 |  |
@@ -123,5 +126,6 @@ Each solved problem gets its own folder, named by question number, difficulty an
 ## String
 |  |
 | ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3280-convert-date-to-binary](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 <!---LeetCode Topics End-->
