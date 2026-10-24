@@ -25,6 +25,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2235-add-two-integers](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -132,6 +133,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 |  |
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2409-count-days-spent-together](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3280-convert-date-to-binary](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 ## Geometry
 |  |
