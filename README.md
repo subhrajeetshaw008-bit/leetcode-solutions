@@ -37,12 +37,14 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
