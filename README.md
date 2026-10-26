@@ -20,6 +20,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [0509-fibonacci-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -148,5 +149,6 @@ Each solved problem gets its own folder, named by question number, difficulty an
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
