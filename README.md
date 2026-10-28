@@ -25,6 +25,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2409-count-days-spent-together) |
@@ -152,4 +153,12 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Sorting
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
