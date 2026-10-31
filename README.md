@@ -75,6 +75,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Theory
 |  |
@@ -114,6 +115,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Brainteaser
 |  |
