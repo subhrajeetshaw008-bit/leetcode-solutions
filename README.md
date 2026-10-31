@@ -67,6 +67,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [1512-number-of-good-pairs](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1920-build-array-from-permutation](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -153,6 +154,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
