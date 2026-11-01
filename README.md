@@ -77,6 +77,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Graph Theory
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [1688-count-of-matches-in-tournament](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
 | ------- |
