@@ -43,6 +43,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3945-digit-frequency-score) |
@@ -76,6 +77,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3668-restore-finishing-order) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Graph Theory
