@@ -56,6 +56,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -93,6 +94,7 @@ Each solved problem gets its own folder, named by question number, difficulty an
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/subhrajeetshaw008-bit/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
